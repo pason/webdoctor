@@ -1,6 +1,7 @@
 Given is a csv file of weekly doctors schedule avability.
 
 Data Structures: 
+
 Doctor: represents doctor's data e.g. full_name
 
 Weekly_Schedule: represents schedule's data for given week, data are injected via DI from Csv::Parser
