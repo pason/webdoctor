@@ -8,4 +8,7 @@ The CSV data are parsed by `Csv::Parser` into Hash `{ week_day => [Doctor(#1), D
 The given weekly data hash is stored in `Weekly_Schedule` model. 
 Avalibity data for given day are obtained by executing `find_doctor` method on `Weekly_Schedule` object.
 
+Usage: 
+`ruby webdoctor.rb`
+
 Author: Slawomir Pason
